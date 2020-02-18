@@ -1,7 +1,22 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 	<head>
+		<link rel="stylesheet" href="css.css">
 		<title>Michal</title>
 	</head>
 	<body>
+		<h2>S³oñ Tr¹balski</h2>
+		<h3>Julian Tuwim</h3>
+		<p>
+		By³ sobie s³oñ, wielki - jak s³oñ.
+		Zwa³ siê ten s³oñ Tomasz Tr¹balski.
+		Wszystko, co mia³, by³o jak s³oñ!
+		Lecz straszny by³ zapominalski.
+		S³oniow¹ mia³ g³owê
+		I nogi s³oniowe,
+		I k³y z prawdziwej koœci s³oniowej,
+		I tr¹bê, któr¹ wspaniale krêci³,
+		Wszystko s³oniowe - oprócz pamiêci.
+		</p>
 	</body>
 </html>
