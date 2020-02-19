@@ -1,0 +1,19 @@
+
+.autoprefixer-cli
+
+{ 
+	autoprefixer-cli -o main.prefixed.css main.css
+}
+
+.htmlvalidate.json
+
+{
+  "extends": [
+    "htmlvalidate:recommended"
+  ],
+ 
+  "rules": {
+    "close-order": "error"
+    "void": ["warn", {"style": "omit"}]
+  }
+}
